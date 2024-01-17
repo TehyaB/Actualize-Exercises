@@ -1,0 +1,14 @@
+# QUESTION 1
+# Write code to print hellohellohello using string addition.
+# Then write code to print hellohellohello again, this time using string multiplication.
+
+
+# QUESTION 2
+# Read the code below and predict which lines will crash. 
+# I predict that lines 11, 15, 16, 22,23, 24
+# Then run the code and remove the invalid lines one at a time, until only the valid code remains.
+puts 9 + 3
+puts "9" + "3"
+puts 9 - 3
+puts 9 * 3
+puts 9 / 3
