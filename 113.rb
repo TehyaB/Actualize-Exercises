@@ -1,9 +1,9 @@
 # QUESTION 1
 # Write code to store 3 different numbers in three different variables.
-Impact = 111
-Trust_and_Patience = 222
-Variable_c = 777
-puts Impact + Variable_c + Trust_and_Patience
+impact = 111
+trust_and_patience = 222
+variable_c = 777
+puts impact + variable_c + trust_and_patience
 # Then write the code to print the three variables added together.
 
 

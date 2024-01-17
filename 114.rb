@@ -16,9 +16,9 @@ puts z
 # Write comments for the remaining lines to describe in your own words 
 # what is happening line by line with the following code.
 mars = 4               # Make a variable called mars and set the value to 4
-mars = 2 * mars        # 
-pluto = 7              # 
-mars = mars - pluto    # 
-pluto = pluto + mars   # 
-puts mars              # 
-puts pluto             # 
+mars = 2 * mars        # The variable mars has a value of 2 * mars 
+pluto = 7              # Make a variable called pluto with a value of 7
+mars = mars - pluto    # The variable mars is set to have a value of mars - pluto 
+pluto = pluto + mars   # The variable pluto is set to have a value of pluto + mars
+puts mars              # Prints the varible of mars only which is set to 1
+puts pluto             #  Prints the varible of pluto only which is set to 8

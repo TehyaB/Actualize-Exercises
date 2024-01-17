@@ -29,5 +29,5 @@ Did you mean?  putc
 111.rb:13: syntax error, unexpected local variable or method, expecting end-of-input (SyntaxError)
 puts 27 / 4 x 2.57 + 8
 # Add a comment that describes the error message in your own words.
-#the command wasn't understood
-#the variable used was not able to be read or recognized 
+#the command wasn't understood as ruby is sensitive and wont recognize a command is it isn't exact. 
+#the variable used was not able to be read or recognized by ruby
