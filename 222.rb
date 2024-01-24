@@ -16,9 +16,9 @@ end
 x = 1000
 if x < 5
     puts 0
-else if x < 10 
+elsif x < 10 
     puts 1
-else x < 100
+elsif x < 100
     puts 2
     end
 end
