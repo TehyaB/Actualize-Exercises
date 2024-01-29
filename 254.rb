@@ -41,5 +41,5 @@ person.info
     end
   end
   
-  product = Product.new("name" => "Table", "price" => 500, "description" => "Solid oak") # FIX THIS LINE
+  product = Product.new({"name" => "Table", "price" => 500, "description" => "Solid oak"}) # FIX THIS LINE
   puts "The product's name is #{product.name}."
